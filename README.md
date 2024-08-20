@@ -34,7 +34,7 @@ R12 [t4] = 0
 R13 [t5] = 0
 R14 [t6] = 0
 
-QtSpims: After Run Registry
+QtSpims After Run Registry:
 R0  [r0] = 0
 R1  [at] = 0
 R2  [v0] = 8
