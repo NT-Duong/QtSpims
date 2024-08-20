@@ -50,3 +50,6 @@ R11 [t3] = 5
 R12 [t4] = 8
 R13 [t5] = 6
 R14 [t6] = 11
+
+Project written in Java for Computer Architecture class at Central Connecticut State University.
+Author: Ben Duong
